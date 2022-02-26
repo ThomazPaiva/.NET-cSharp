@@ -1,0 +1,13 @@
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.exe
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.deps.json
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.json
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.runtimeconfig.dev.json
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.dll
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\bin\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csprojAssemblyReference.cache
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfoInputs.cache
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.AssemblyInfo.cs
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.csproj.CoreCompileInputs.cache
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.dll
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.pdb
+C:\Users\thomaz.paiva\source\repos\calculator\calculator\obj\Debug\netcoreapp3.1\calculator.genruntimeconfig.cache
